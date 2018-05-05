@@ -111,3 +111,5 @@ ENV/
 *.fits
 
 testing_periodogram.ipynb
+
+*.pdf
