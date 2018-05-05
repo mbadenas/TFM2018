@@ -109,3 +109,5 @@ ENV/
 *.bat
 
 *.fits
+
+testing_periodogram.ipynb
